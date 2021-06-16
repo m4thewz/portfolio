@@ -1,8 +1,8 @@
-<h1 align=center>:large_blue_diamond: Matheus Vitor :large_blue_diamond:</h1>
+<h1 align=center>:large_blue_diamond: Matthew :large_blue_diamond:</h1>
 
 <div align="center">
-  <a href="https://instagram.com/matheeusdev">
-      <img src="https://img.shields.io/badge/-@matheeusdev-00D1B2?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/matheeusdev">
+  <a href="https://instagram.com/m4theusdev">
+      <img src="https://img.shields.io/badge/-@m4theusdev-00D1B2?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/m4theusdev">
   </a>
 
   <a href="mailto:matheeusdev@gmail.com">
@@ -11,13 +11,17 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuuus&locale=pt-br&count_private=true&show_icons=true&theme=dracula" alt="My Statistics." />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuuus&count_private=true&show_icons=true&theme=dracula" alt="My Statistics." />
 </div>
 <hr>
 
-Olá, me chamo **Matheus**, um estudante de programação que sonha se tornar um grande desenvolvedor em um futuro próximo :rocket:
+<p align="center">
+    <samp>
+         A person who likes to contribute.
+    </samp>
+</p>
 
-**Aplicações Web**
+**Web Applications**
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -27,7 +31,7 @@ Olá, me chamo **Matheus**, um estudante de programação que sonha se tornar um
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 
-**Banco de Dados**
+**Database**
 
 ![MONGO](https://img.shields.io/badge/-mongo%20db-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/-Sqlite3-003B57?style=for-the-badge&logo=sqlite)
@@ -40,7 +44,7 @@ Olá, me chamo **Matheus**, um estudante de programação que sonha se tornar um
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 
 
-**Interesses**
+**Interests**
 
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Electron](https://img.shields.io/badge/-electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
@@ -54,7 +58,7 @@ Olá, me chamo **Matheus**, um estudante de programação que sonha se tornar um
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
-**Sistema Operacionais**
+**Operating System**
 
 ![Linux](https://img.shields.io/badge/-linux-333333?style=for-the-badge&logo=Linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
