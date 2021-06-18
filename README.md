@@ -11,7 +11,7 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuuus&count_private=true&show_icons=true&theme=dracula" alt="My Statistics." />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuuus&count_private=true&custom_title=Matthew's%20Github%20Stats&show_icons=true&theme=dracula" alt="My Statistics." />
 </div>
 <hr>
 
