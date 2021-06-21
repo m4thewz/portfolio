@@ -5,8 +5,8 @@
       <img src="https://img.shields.io/badge/-@m4theusdev-00D1B2?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/m4theusdev">
   </a>
 
-  <a href="mailto:matheeusdev@gmail.com">
-      <img src="https://img.shields.io/badge/-matheeusdev@gmail.com-00D1B2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheeusdev@gmail.com">
+  <a href="mailto:m4theusdev@gmail.com">
+      <img src="https://img.shields.io/badge/-m4theusdev@gmail.com-00D1B2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m4theusdev@gmail.com">
   </a>
 
   <br>
