@@ -1,17 +1,16 @@
-<h1 align=center>:large_blue_diamond: Matthew :large_blue_diamond:</h1>
-
 <div align="center">
+  <h1>Matthew :rocket:</h1>
   <a href="https://instagram.com/m4theusdev">
-      <img src="https://img.shields.io/badge/-@m4theusdev-00D1B2?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/m4theusdev">
+      <img src="https://img.shields.io/badge/-@m4theusdev-04c3ff?style=flat-square&logo=instagram&logoColor=faf2f5&link=https://instagram.com/m4theusdev">
   </a>
 
   <a href="mailto:m4theusdev@gmail.com">
-      <img src="https://img.shields.io/badge/-m4theusdev@gmail.com-00D1B2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m4theusdev@gmail.com">
+      <img src="https://img.shields.io/badge/-m4theusdev@gmail.com-04c3ff?style=flat-square&logo=Gmail&logoColor=faf2f5&link=mailto:m4theusdev@gmail.com">
   </a>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuuus&count_private=true&custom_title=Matthew's%20Github%20Stats&show_icons=true&theme=dracula" alt="My Statistics." />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuuus&count_private=true&custom_title=Matthew's%20Github%20Stats&show_icons=true&theme=blueberry&title_color=04b4ff&text_color=fff&icon_color=00b4d8&hide_border=true" alt="My Statistics." />
 </div>
 <hr>
 
@@ -27,7 +26,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 
