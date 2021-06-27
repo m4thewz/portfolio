@@ -60,4 +60,8 @@
 **Operating System**
 
 ![Linux](https://img.shields.io/badge/-linux-333333?style=for-the-badge&logo=Linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=Arch%20Linux&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
+![XFCE](https://img.shields.io/badge/-XFCE-2284F2?style=for-the-badge&logo=XFCE&logoColor=white)
+![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?style=for-the-badge&logo=GNOME&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
