@@ -13,12 +13,8 @@
     outline: none;
   }
   @font-face {
-    font-family: "Rainy Hearts";
-    src: url('./assets/fonts/rainyhearts.ttf');
-  }
-  @font-face {
     font-family: "VCR OSD";
-    src: url('./assets/fonts/VCR_OSD.ttf');
+    src: url('./assets/VCR_OSD.ttf');
   }
   #app {
     font-family: VCR OSD;
