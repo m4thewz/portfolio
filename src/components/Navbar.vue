@@ -16,8 +16,11 @@ export default {
 </script>
 <style scoped>
     nav{
+        color: white;
         padding: 10px 15px;
+        width: 100vw;
 
+        position: fixed;
         display: flex;
         justify-content: space-between;
         align-items: center;
