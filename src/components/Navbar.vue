@@ -2,9 +2,11 @@
     <nav>
         <h1>Matheuuus</h1>
         <ul>
-            <li>Home</li>
+            <li>
+                <router-link to="Index">Home</router-link>
+            </li>
             <li>Projetos</li>
-            <li>Contatos</li>
+            <li>Contato</li>
         </ul>
     </nav>
 </template>
