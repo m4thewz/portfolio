@@ -6,8 +6,11 @@
 </template>
 
 <style>
-  #app {
-    font-family: VCR OSD;
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
   }
   @font-face {
       font-family: "Rainy Hearts";
@@ -17,6 +20,10 @@
       font-family: "VCR OSD";
       src: url('./assets/fonts/VCR_OSD.ttf');
   }
+  #app {
+    font-family: VCR OSD;
+  }
+
 </style>
 
 <script>
