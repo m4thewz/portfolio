@@ -1,18 +1,16 @@
 <template>
     <div>
-        <h1>portfolio</h1>
-        <p>My personal portfolio</p>
-        <MyComponent/>
+        <Navbar/>
     </div>
 </template>
 
 <script>
-import MyComponent from '@/components/MyComponent'
+import Navbar from '@/components/Navbar'
 
 export default {
     name: 'Index',
     components: {
-        MyComponent
+        Navbar
     }
 }
 </script>
