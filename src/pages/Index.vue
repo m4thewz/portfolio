@@ -1,16 +1,5 @@
 <template>
     <div>
-        <Navbar/>
+        <p>My personal portfolio</p>
     </div>
 </template>
-
-<script>
-import Navbar from '@/components/Navbar'
-
-export default {
-    name: 'Index',
-    components: {
-        Navbar
-    }
-}
-</script>

@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+      <Navbar/>
       <router-view/>
   </div>
 </template>
@@ -17,3 +18,14 @@
       src: url('./assets/fonts/VCR_OSD.ttf');
   }
 </style>
+
+<script>
+  import Navbar from '@/components/Navbar'
+
+  export default {
+      name: 'Index',
+      components: {
+          Navbar
+      }
+  }
+</script>
