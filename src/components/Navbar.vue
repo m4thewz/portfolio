@@ -1,6 +1,6 @@
 <template>
     <nav>
-        <h1>matheuuuus</h1>
+        <h1>Matheuuus</h1>
         <ul>
             <li>Home</li>
             <li>Projetos</li>
@@ -27,6 +27,7 @@ export default {
     }
     nav ul li{
         display: inline-block;
+        font-size: 20px;
     }
     nav ul li:not(:last-child){
         margin-right: 10px;
