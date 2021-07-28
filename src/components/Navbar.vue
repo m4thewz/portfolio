@@ -3,10 +3,14 @@
         <h1>Matheuuus</h1>
         <ul>
             <li>
-                <router-link to="Index">Home</router-link>
+                <router-link to="/">Home</router-link>
             </li>
-            <li>Projetos</li>
-            <li>Contato</li>
+            <li>
+                <router-link to="#projetos">Projetos</router-link>
+            </li>
+            <li>
+                <router-link to="#contato">Contato</router-link>
+            </li>
         </ul>
     </nav>
 </template>
@@ -36,5 +40,9 @@ export default {
     }
     nav ul li:not(:last-child){
         margin-right: 10px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
     }
 </style>
