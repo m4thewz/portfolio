@@ -7,7 +7,7 @@
 
 <style>
   #app {
-    font-family: Rainy Hearts;
+    font-family: VCR OSD;
   }
   @font-face {
       font-family: "Rainy Hearts";
