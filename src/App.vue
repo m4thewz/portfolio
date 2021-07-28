@@ -13,26 +13,25 @@
     outline: none;
   }
   @font-face {
-      font-family: "Rainy Hearts";
-      src: url('./assets/fonts/rainyhearts.ttf');
+    font-family: "Rainy Hearts";
+    src: url('./assets/fonts/rainyhearts.ttf');
   }
   @font-face {
-      font-family: "VCR OSD";
-      src: url('./assets/fonts/VCR_OSD.ttf');
+    font-family: "VCR OSD";
+    src: url('./assets/fonts/VCR_OSD.ttf');
   }
   #app {
     font-family: VCR OSD;
   }
-
 </style>
 
 <script>
   import Navbar from '@/components/Navbar'
 
   export default {
-      name: 'Index',
-      components: {
-          Navbar
-      }
+    name: 'Index',
+    components: {
+      Navbar
+    }
   }
 </script>
