@@ -14,3 +14,19 @@ export default {
     name: 'Navbar'
 }
 </script>
+<style scoped>
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    h1{
+        font-size: 42px;
+    }
+    nav ul li{
+        display: inline-block;
+    }
+    nav ul li:not(:last-child){
+        margin-right: 10px;
+    }
+</style>
