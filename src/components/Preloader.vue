@@ -27,7 +27,7 @@
 </script>
 <style scoped>
 	div{
-		background: black;
+		background: white;
 		color: white;
 
 		position: absolute;
