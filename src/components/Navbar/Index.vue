@@ -1,6 +1,6 @@
 <template>
     <nav class="flex justify-between items-center py-3 px-4">
-        <h1 class="text-4xl font-medium">Matheuuus</h1>
+        <h1 class="text-4xl font-medium">M4theus.me</h1>
         <ul class="flex space-x-3 text-xl">
             <NavItem href="/" isActive>Home</NavItem>
             <NavItem href="#projetos">Projetos</NavItem>
