@@ -4,6 +4,7 @@
         
         <h1>Matheus Vitor</h1>
         <p>Uma pessoa que gosta de contribuir</p>
+        
     </main>
 </template>
 <style scoped>
