@@ -7,7 +7,7 @@
 </template>
 
 <script>
-  import Navbar from '@/components/Navbar'
+  import Navbar from '@/components/Navbar/Index'
   // import Preloader from '@/components/Preloader'
 
   export default {
