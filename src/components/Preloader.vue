@@ -26,22 +26,6 @@
 	}
 </script>
 <style scoped>
-	div{
-		background: white;
-		color: white;
-
-		position: absolute;
-		top: 0;
-		right: 0;
-
-		height: 100vh;
-		width: 100vw;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-
-		transition: all ease .5s;
-	}
 	.fade-leave-active {
 		transition: opacity .5s;
 	}
