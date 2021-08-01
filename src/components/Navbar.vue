@@ -1,7 +1,7 @@
 <template>
     <nav class="flex justify-between items-center py-3 px-4">
         <h1 class="text-4xl font-medium">Matheuuus</h1>
-        <ul class="flex text-xl">
+        <ul class="flex space-x-2 text-xl">
             <li>
                 <router-link to="/">Home</router-link>
             </li>
