@@ -2,7 +2,7 @@
 	<li>
         <router-link
         :to="href"
-        :class="['block', { 'text-blue-700': isActive, 'hover:text-indigo-700': !isActive }]"
+        class="block font-medium hover:text-black transition-colors duration-500"
         >
 			<slot></slot>
         </router-link>
@@ -15,7 +15,6 @@ export default {
 			type: String,
 			required: true,
 		},
-		isActive: Boolean,
   },
 }
 </script>
