@@ -1,8 +1,12 @@
 <template>
-    <main>
-        <img src="../assets/images/avatar.png" alt="avatar">
-        
-        <h1>Matheus Vitor</h1>
-        <p>Uma pessoa que gosta de contribuir</p>
-    </main>
+    <Container/>
 </template>
+<script>
+  import Container from '@/components/Container/'
+  export default{
+    name: 'Index',
+    components: {
+        Container
+    }
+  }
+</script>
