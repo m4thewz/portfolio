@@ -1,6 +1,6 @@
 <template>
 	<transition name="fade">
-		<div v-if="show">
+		<div v-if="show" id="fade" class="flex items-center justify-center absolute z-20 h-screen w-screen">
 			<img src="../assets/images/sonic.gif" alt="sonic">
 		</div>
 	</transition>
@@ -26,6 +26,9 @@
 	}
 </script>
 <style scoped>
+	#fade{
+		background: #36393f;
+	}
 	.fade-leave-active {
 		transition: opacity .5s;
 	}
