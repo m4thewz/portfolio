@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn{
+	@apply sm:px-35 h-35 w-full sm:w-auto 
+		py-3 space-x-2 sm:space-x-4
+		flex items-center justify-center
+		transition-colors duration-500 bg-black;
+}
+.btn-blue{
+	@apply bg-blue-500 hover:bg-blue-600;
+}
