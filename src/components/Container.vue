@@ -11,13 +11,7 @@
         </div>
     </main>
 </template>
-<style>
-    body{
-        background: url('../assets/images/wallpapper.png');
-        background-size: 100%;
-        background-repeat: no-repeat;
-    }
-</style>
+
 <script>
     export default{
         name: 'Container'
