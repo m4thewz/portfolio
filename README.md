@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<h1 id="matheus">👋 Hi, i'm Matthew</h1>
+<h1 id="matheus">👋 Hi, i'm Matheus</h1>
 
 <h3>:zap: A Few Quick Facts</h2>
 
