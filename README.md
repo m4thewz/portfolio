@@ -65,7 +65,7 @@
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="./github/Logos/git.png" width="48" height="48" alt="CSS" />
+        <img src="./github/Logos/css.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
