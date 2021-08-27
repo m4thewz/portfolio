@@ -1,5 +1,5 @@
 <img align="left" src="./github/avatar.png" width="200">
-<img align="right" src="https://count.getloli.com/get/@:m4theus?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:matheuuus?theme=rule34">
 
 <br/>
 <br/>
