@@ -11,6 +11,12 @@ const router = new Router({
             path: '/',
             name: 'Index',
             component: () => import('./pages/Index.vue')
+        },
+        {
+            path: '/github',
+            beforeEnter() {
+                window.location.replace("https://github.com/matheuuus")
+            }
         }
     ]
 })
