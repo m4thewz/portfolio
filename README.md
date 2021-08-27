@@ -1,5 +1,5 @@
 <img align="left" src="./github/avatar.png" width="200">
-<img align="right" src="https://count.getloli.com/get/@:matthew?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:m4theus?theme=rule34">
 
 <br/>
 <br/>
@@ -8,20 +8,28 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
-<h1>👋 Hi, i'm Matthew</h1>
+<h1 id="matheus">👋 Hi, i'm Matthew</h1>
 
 <h3>:zap: A Few Quick Facts</h2>
 
-<div>
-  <ul align="left">
-    <li>:office: I’m currently working on <a href="https://github.com/schoolseat/">Schoolseat</a>.</li>
-    <li>🧐 Learning about <strong>VueJS</strong>.</li>
-    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/matheuuus">Github</a>.</li>
-    <li>💬 Ask me about <strong>vue, html, css, js and express</strong>.</li>
-    <li>📙 See more in my <a href="https://m4theus.me">portfolio</a>.</li>
-  </ul>
-</div>
+<a href="#matheus">
+    <img src="https://github-readme-stats.vercel.app/api?username=matheuuus&show_icons=true&count_private=true&include_all_commits=true&custom_title=Matthew's%20Github%20Stats&theme=blueberry&title_color=04b4ff&text_color=fff&icon_color=00b4d8&hide_border=true" alt="macropower" align="right" />
+</a>
+
+
+- :office: I’m currently working on <a href="https://github.com/schoolseat/">Schoolseat</a>.
+- 🧐 Learning about <strong>VueJS</strong>.</li>
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/matheuuus">Github</a>.
+- 💬 Ask me about <strong>vue, html, css, js and express</strong>.
+- 📙 See more in my <a href="https://m4theus.me">portfolio</a>.
+
+<br/>
+
+<h2 align="left" id="tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
@@ -95,29 +103,27 @@
     </td>
     <td align="center" width="96">
       <a href="#tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./github/Logos/insomnia.png" width="48" height="48" alt="Insomnia" />
       </a>
-      <br>Grafana
+      <br>Insomnia
     </td>
     <td align="center" width="96">
       <a href="#tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="./github/Logos/sublime.png" width="48" height="48" alt="Sublime" />
       </a>
-      <br>Prometheus
+      <br>Sublime
     </td>
     <td align="center" width="96">
       <a href="#tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="./github/Logos/figma.png" width="48" height="48" alt="Figma" />
       </a>
-      <br>Thanos
+      <br>Figma
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheuuus&count_private=true&custom_title=Matthew's%20Github%20Stats&show_icons=true&theme=blueberry&title_color=04b4ff&text_color=fff&icon_color=00b4d8&hide_border=true" alt="My Statistics." />
-
 <details>
   <summary><b>📈 Most used langs</b></summary>
   <br/>
-  <img src="./github/github-metrics.svg"/>
+  <img src="./github-metrics.svg"/>
 </details
