@@ -20,7 +20,6 @@
 
 
 - :office: I’m currently working on <a href="https://github.com/schoolseat/">Schoolseat</a>.
-- :package: Building [my portfolio]
 - 🧐 Learning about <strong>VueJS</strong>.</li>
 - :pencil2: Arch Linux / Openbox / Oh My Zsh / Sublime Text.
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/matheuuus">Github</a>.
