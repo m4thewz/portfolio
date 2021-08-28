@@ -7,11 +7,11 @@
 </template>
 
 <style>
-    body{
-        background: url('./assets/images/wallpapper.png');
-        background-size: 100%;
-        background-repeat: no-repeat;
-    }
+  body{
+    background: url('./assets/images/wallpapper.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
 </style>
 <script>
   import Navbar from '@/components/Navbar/Index'
