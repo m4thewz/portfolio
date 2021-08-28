@@ -12,6 +12,12 @@
     background-size: 100%;
     background-repeat: no-repeat;
   }
+  @media(max-width: 1250px) {
+    body{
+      background-image: none;
+      background-color: #36393f;
+    }
+  }
 </style>
 <script>
   import Navbar from '@/components/Navbar/Index'
