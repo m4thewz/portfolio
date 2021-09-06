@@ -8,7 +8,7 @@
                 <button class="font-bold uppercase mt-8 py-2 px-8 relative">Veja mais sobre mim</button>
             </div>
         </div>
-        <img class="rounded-full w-1/5" src="../assets/images/avatar.png" alt="avatar">
+        <img class="rounded-full w-1/4" src="../assets/images/avatar.png" alt="avatar">
     </main>
 </template>
 
