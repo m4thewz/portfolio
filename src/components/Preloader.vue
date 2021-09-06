@@ -14,13 +14,15 @@
 			}
 		},
 		mounted() {
-			if(this.show) this.showToggle()
+			document.onreadystatechange = () => {
+				if (document.readyState == "complete") this.showToggle()
+			}
 		},
 		methods: {
 			showToggle(){
 				setTimeout(() => {
 					this.show = false
-				}, 500)
+				}, 250)
 			}
 		}
 	}
