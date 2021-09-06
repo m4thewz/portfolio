@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="font-poppins text-white bg-primary">
+  <div id="app" class="font-play text-white bg-primary">
       <Navbar/>
       <Preloader/>
       <router-view/>
