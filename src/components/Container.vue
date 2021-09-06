@@ -3,7 +3,7 @@
         <div class="flex flex-col items-center">
             <div>
                 <span class="font-josefin uppercase">Uma pessoa que gosta de contribuir</span>
-                <h2 class="text-6xl font-bold uppercase">Web Developer</h2>
+                <h2 class="text-6xl font-bold uppercase">Matheus Vitor</h2>
     
                 <button class="font-bold uppercase mt-8 py-2 px-8 relative">Veja mais sobre mim</button>
             </div>
