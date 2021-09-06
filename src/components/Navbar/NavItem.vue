@@ -2,7 +2,7 @@
 	<li>
         <router-link
         :to="href"
-        class="block font-medium hover:text-black transition-colors duration-500"
+        class="block font-medium hover:text-blue-500 transition-colors duration-500"
         >
 			<slot></slot>
         </router-link>
