@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col items-center jusify-center relative">
         <Container/>
-        <span class="absolute bottom-0 animate-bounce text-8xl material-icons">expand_more</span>
+        <span class="absolute bottom-0 animate-bounce text-8xl select-none material-icons">expand_more</span>
     </div>
 </template>
 <script>

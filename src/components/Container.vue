@@ -5,10 +5,10 @@
                 <span class="font-josefin uppercase">Uma pessoa que gosta de contribuir</span>
                 <h2 class="text-6xl font-bold uppercase">Matheus Vitor</h2>
     
-                <button class="font-bold uppercase mt-8 py-2 px-8 relative">Veja mais sobre mim</button>
+                <button class="font-bold uppercase mt-8 py-2 px-8 relative select-none">Veja mais sobre mim</button>
             </div>
         </div>
-        <img class="rounded-full w-1/4" src="../assets/images/avatar.png" alt="avatar">
+        <img class="rounded-full w-1/4 select-none" src="../assets/images/avatar.png" alt="avatar">
     </main>
 </template>
 
