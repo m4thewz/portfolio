@@ -20,6 +20,11 @@
 
 <style scoped>
 
+img{
+    box-shadow: 0px 0px 14px 4px rgba(37,99,235,0.65);
+    background: #2563eb;
+}
+
 button{
     z-index: 1;
 }
