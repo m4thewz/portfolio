@@ -12,8 +12,7 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'indent': [ 'error', 2 ],
     'linebreak-style': [ 'error', 'unix' ],
-    'quotes': [ 'error', 'single' ],
-    'semi': [ 'error', 'always' ]
+    'semi': [ 'error', 'always' ],
   },
   'ignorePatterns': ['dist/', 'node_modules/'],
 };
