@@ -1,0 +1,13 @@
+#home {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0px 30px;
+  height: 100vh;
+
+  p {
+    font-size: 64px;
+    font-weight: bold;
+  }
+}
