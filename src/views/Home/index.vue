@@ -1,8 +1,13 @@
 <template>
   <div id="home">
-    <p>Uma pessoa que <br />gosta de contribuir</p>
-    <img src="@/assets/dev.png" width="500" />
+    <Container />
   </div>
 </template>
 
-<style lang="scss" scoped src="@/views/Home/style.scss"></style>
+<script>
+import Container from "@/views/Home/Container";
+
+export default {
+  components: { Container },
+};
+</script>
