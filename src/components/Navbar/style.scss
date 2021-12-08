@@ -39,3 +39,14 @@ nav {
     }
   }
 }
+
+@media screen and (max-width: 650px) {
+  nav {
+    padding: 15px 20px;
+    justify-content: center;
+
+    ul {
+      display: none;
+    }
+  }
+}

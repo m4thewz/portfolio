@@ -11,3 +11,35 @@
     font-weight: bold;
   }
 }
+
+@media screen and (max-width: 650px) {
+  #home {
+    text-align: center;
+    height: calc(100vh - 85px);
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  #home {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #home {
+    p {
+      font-size: 48px;
+    }
+    img {
+      width: 275px;
+    }
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 900px) {
+  #home img{
+    width: 350px;
+  }
+}
+
