@@ -3,9 +3,9 @@
     <h1>M4theus<span>.me</span></h1>
     <ul>
       <NavItem content="Ínicio" href="/" />
-      <NavItem content="Sobre" href="#sobre" />
-      <NavItem content="Projetos" href="#projetos" />
-      <NavItem content="Contato" href="#contato" />
+      <NavItem content="Sobre" href="#about" />
+      <NavItem content="Projetos" href="#projects" />
+      <NavItem content="Contato" href="#contact" />
     </ul>
   </nav>
 </template>
