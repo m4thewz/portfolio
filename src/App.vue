@@ -34,15 +34,10 @@ export default {
 }
 ::-webkit-scrollbar-thumb {
   background: #008dff;
-  border: 10px none #ffffff;
   border-radius: 30px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: #b3afb3;
 }
 ::-webkit-scrollbar-track {
   background: #f8f9fa;
-  border-radius: 0px;
   box-shadow: inset 0px 0px 0px 0px #f0f0f0;
 }
 </style>
