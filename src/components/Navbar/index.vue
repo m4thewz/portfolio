@@ -1,5 +1,5 @@
 <template>
-  <nav :class="{ active: scrollPosition >= 10 }">
+  <nav>
     <h1>M4theus<span>.me</span></h1>
     <ul>
       <NavItem content="Ínicio" href="/" />
@@ -15,19 +15,6 @@ import NavItem from "@/components/Navbar/NavItem";
 
 export default {
   components: { NavItem },
-  data() {
-    return {
-      scrollPosition: null,
-    };
-  },
-  methods: {
-    updateScroll() {
-      this.scrollPosition = window.scrollY;
-    },
-  },
-  mounted() {
-    window.addEventListener("scroll", this.updateScroll);
-  },
 };
 </script>
 
